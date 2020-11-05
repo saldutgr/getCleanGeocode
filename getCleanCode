@@ -1,3 +1,7 @@
+library(hereR)
+library(dplyr)
+libary(st)
+
 api_key <- #your api key from hereR
 
 getCleanGeocode <- function(x, y = 4326, clean = FALSE) {
